@@ -1,0 +1,14 @@
+CSV text has been written to file : Symbols.csv
+
+Library Component Count : 7
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+AD7403-8BRIZ-RL7    IC ISOLATED MODULE 16BIT 8SOIC
+AD7478ARTZ          8 Bit Analog to Digital Converter 1 Input 1 SAR SOT-23-6
+CMOD-A7             Artix-7 FPGA Development Board 50MHz CPU 112.5KB RAM 4MB SPI Flash Embedded Processors and Controllers
+RPA30               Isolated Module DC DC Converter Output 5V - - 6A 9V - 36V Input
+Raspberry Pi        
+UGPSV3              Adafruit GPS module
+XBP9B-DMST-002      General ISM < 1GHz - Transceiver Module 900MHz Antenna Not Included, RP-SMA Through Hole

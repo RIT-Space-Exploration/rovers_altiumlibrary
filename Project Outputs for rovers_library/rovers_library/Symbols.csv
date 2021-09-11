@@ -1,0 +1,8 @@
+"LIBRARYREFERENCE","FOOTPRINT1","COMMENT","SUPPLIER 1","SUPPLIER 2","SUPPLIER 3","SUPPLIER PART NUMBER 1","SUPPLIER PART NUMBER 2","SUPPLIER PART NUMBER 3","SHEETPART","DESIGNATOR","DESCRIPTION"
+"AD7403-8BRIZ-RL7","SOIC-8N","AD7403-8","Digi-Key","Digi-Key","Mouser","505-AD7403-8BRIZ-RL7CT-ND","AD7403-8BRIZ-ND","584-AD7403-8BRIZ-RL7","*","U","IC ISOLATED MODULE 16BIT 8SOIC"
+"AD7478ARTZ","","AD7478","Digi-Key","","","AD7478ARTZREEL7CT-ND","","","*","U?","8 Bit Analog to Digital Converter 1 Input 1 SAR SOT-23-6"
+"CMOD-A7","","A7-35T","Digi-Key","","","1286-1130-ND","","","*","U?","Artix-7 FPGA Development Board 50MHz CPU 112.5KB RAM 4MB SPI Flash Embedded Processors and Controllers"
+"RPA30","RPA30","*","Digi-Key","","","945-2970-ND","","","*","U?","Isolated Module DC DC Converter Output 5V - - 6A 9V - 36V Input"
+"Raspberry Pi","Raspberry Pi 4B+","*","","","","","","","*","U?",""
+"UGPSV3","UGPSV3","*","","","","","","","*","U?","Adafruit GPS module"
+"XBP9B-DMST-002","","*","Digi-Key","","","602-1299-ND","","","*","U?","General ISM < 1GHz - Transceiver Module 900MHz Antenna Not Included, RP-SMA Through Hole"
